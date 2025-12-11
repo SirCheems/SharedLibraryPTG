@@ -6,7 +6,6 @@ using System.Text.Json;
 
 public static class JsonUtils
 {
-    // <-- Rest of the code below goes here. 
 
     public static JsonSerializerOptions DefaultOptions = new JsonSerializerOptions
     {

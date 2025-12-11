@@ -6,7 +6,6 @@ using System.Globalization;
 public static class Configuration
 {
     private static StringDictionary? appConfiguration;
-    // <-- Rest of the code below goes here. 
 
     private static StringDictionary GetAppConfiguration()
     {

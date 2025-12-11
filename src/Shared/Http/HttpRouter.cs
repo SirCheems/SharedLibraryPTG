@@ -21,7 +21,6 @@ public class HttpRouter
         routes = [];
     }
 
-    // <-- Rest of the code below goes here. 
 
     public HttpRouter Use(params HttpMiddleware[] middlewares)
     {
